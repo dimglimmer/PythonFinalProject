@@ -19,4 +19,10 @@ export PATH=$PATH:/new/bowtie2
 
 ## Step 3
 
-### 
+The next step of the prpject 
+
+
+
+
+
+*Given how incredibly ambitious my original proposal design was, I have decided to start small and learn python a little better. So I have changed m project to calculating nucleotide frequencies in the 5' UTR from patients in the Los Alomos database.* 
