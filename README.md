@@ -58,4 +58,7 @@ Using the counter command, we can calculate nuc frequencies.
 
 
 
+
+
+
 *Given how incredibly ambitious my original proposal design was, I have decided to start small and learn python a little better. So I have changed m project to calculating nucleotide frequencies in the 5' UTR from patients in the Los Alomos database.* 
