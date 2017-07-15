@@ -31,7 +31,7 @@ Note: I "borrowed" this from your goodcode.py file.
 
 """
 Using Bowtie package to align the sequences together
-
+NOTE: BOWTIE COMMANDS WILL HAVE TO BE REUN IN TERMINAL
 
 # Build index from reference
 bowtie2-build nl43.fasta refer
