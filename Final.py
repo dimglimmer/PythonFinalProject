@@ -2,7 +2,6 @@
 Calculating nucleotide frequencies from HIV 5'UTR of patients
 """
 
-
 """ 
 Determining if the input is a FASTA file 
 """
